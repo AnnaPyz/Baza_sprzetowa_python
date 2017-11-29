@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 
-class Logoawnie_DB:
+class Logowanie_DB:
     def __init__(self,uprawnienia):
         self.uprawnienia = uprawnienia
 #       print(str(self.imie) + ' Witaj w module!')
